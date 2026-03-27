@@ -4,7 +4,7 @@ Uma solução Pipeline ETL para mostrar dados do Bitcoin em tempo real!
 💰 Data Pipeline: Extração de Dados Bitcoin com ETL em PySpark e Databricks! Projeto desenvolvido no curso workshop gratuito de Data Engineering para Iniciantes!
 
 
-
+<img width="1913" height="873" alt="dashboard5" src="https://github.com/user-attachments/assets/a104e8bf-b092-4c62-a610-e3e7b1e01a22" />
 <img width="1282" height="835" alt="dashboard bitcoin" src="https://github.com/user-attachments/assets/00dd7138-33b2-4432-8c82-df75bfc65dab" />
 <img width="1915" height="875" alt="dashboard bitcoin1" src="https://github.com/user-attachments/assets/f324ee00-aa4e-4b1a-b89a-341aefc29a44" />
 <img width="1918" height="896" alt="dashboard bitcoin2" src="https://github.com/user-attachments/assets/6cc6f7da-5a4a-4cdd-ae65-117d620d8f82" />
